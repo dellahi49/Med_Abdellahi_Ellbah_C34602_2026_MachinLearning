@@ -20,7 +20,7 @@ en suivant une **démarche méthodologique complète** allant de l’exploration
 
 ## Contenu du projet
 
-```
+
 ```
 .
 ├── mini-projet-RLineair.ipynb  # Notebook Google Colab de  Régression Linéaire 
