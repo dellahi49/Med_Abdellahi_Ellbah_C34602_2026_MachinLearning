@@ -115,7 +115,6 @@ L’objectif est de prédire la probabilité d’appartenance à la classe *Seto
 
 ---
 
----
 
 ##  Données
 
@@ -133,7 +132,7 @@ La variable cible originale comporte 3 classes. Elle est transformée en une **v
 
 ---
 
-## 🛠 Étapes méthodologiques suivies
+##  Étapes méthodologiques suivies
 
 ### 1 Préparation des données
 
